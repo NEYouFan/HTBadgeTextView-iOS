@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "HTBadgeTextView"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "网易HeartTouch小组标准化控件库之HTBadgeTextView"
 
   s.description  = <<-DESC
