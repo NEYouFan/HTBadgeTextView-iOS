@@ -17,13 +17,13 @@ Pod::Spec.new do |s|
 
   s.name         = "HTBadgeTextView"
   s.version      = "0.0.1"
-  s.summary      = "A short description of HTBadgeTextView."
+  s.summary      = "网易HeartTouch小组标准化控件库之HTBadgeTextView"
 
   s.description  = <<-DESC
-                   A longer description of HTBadgeTextView in Markdown format.
+                   网易HeartTouch小组标准化控件库之HTBadgeTextView，提供badgeview到自定义接口
                    DESC
 
-  s.homepage     = "https://github.com/NEYouFan/HTBadgeTextView-iOS.git"
+  s.homepage     = "https://github.com/NEYouFan/ht-badgetextview-ios"
 
 
   s.license      = "MIT"
@@ -33,7 +33,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "7.0"
 
 
-  s.source       = { :git => "https://github.com/NEYouFan/HTBadgeTextView-iOS.git", :tag => s.version.to_s }
+  s.source       = { :git => "https://github.com/NEYouFan/ht-badgetextview-ios.git", :tag => s.version.to_s }
 
   s.source_files  = "HTBadgeTextView/*.{h,m}"
 
